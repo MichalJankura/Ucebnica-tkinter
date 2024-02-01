@@ -29,4 +29,4 @@ Tento repozitár slúži ako učebnica pre Tkinter s cieľom pomôcť vám zvlá
 
 Tento repozitár je poskytovaný pod [licenciou MIT](LICENSE), čo znamená, že môžete voľne používať, klonovať a modifikovať tento kód pre svoje vlastné projekty.
 
-Dúfame, že vám táto učebnica pomôže objaviť svet Tkinter a posunie vás na vyššiu úroveň vývoja grafických užívateľských rozhraní v jazyku Python! Happy coding!
+Dúfam , že vám týmto REPOM pomôžem zlepšiť chápanie knžnice Tkinter a aj vaše známky 😜😝
