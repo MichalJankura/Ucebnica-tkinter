@@ -1,5 +1,5 @@
 import tkinter
-canvas = tkinter.Canvas(width=800, height=900)
+canvas = tkinter.Canvas(width=800, height=900,bg="white")
 canvas.pack()
 
 #ZMRZLINA-KOPČEKY
