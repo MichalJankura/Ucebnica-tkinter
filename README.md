@@ -25,12 +25,6 @@ Tento repozitár slúži ako učebnica pre Tkinter s cieľom pomôcť vám zvlá
 3. Čítajte návody a tipy na zdokonalenie vašich schopností v Tkinter.
 4. Experimentujte s projekty a vytvárajte vlastné aplikácie s GUI!
 
-## Prispievanie
-
-Ak máte nápady na vylepšenie tejto učebnice alebo pridanie nových príkladov, slobodne prispievajte k tomuto repozitáru! Každý príspevok je vítaný.
-
-Prečítajte si [sprievodcu prispievateľa](CONTRIBUTING.md), aby ste sa dozvedeli viac o prispievaní.
-
 ## Licencia
 
 Tento repozitár je poskytovaný pod [licenciou MIT](LICENSE), čo znamená, že môžete voľne používať, klonovať a modifikovať tento kód pre svoje vlastné projekty.
