@@ -6,4 +6,4 @@ Táto učebnica je určená pre začiatočníkov, ktorí sa chcú naučiť, ako 
 
 Obsah
 
-Repozitár bude obsahovať jednotlivé úlohy tak ako idú v učebnici zaradom.
+Repozitár obsahuje jednotlivé úlohy tak ako idú v učebnici zaradom.
