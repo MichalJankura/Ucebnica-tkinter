@@ -1,9 +1,9 @@
-# Učebnica-tkinter
-Kto hľadá nájde🧐🧐🧐
+<h1 align="center">TKINTER Ucebnica</h1>
+<h3 align="center">Vypracovaná celá učebnica 100%</h3>
 
-Tkinter Učebnica
-Táto učebnica je určená pre začiatočníkov, ktorí sa chcú naučiť, ako pracovať s knižnicou Tkinter v jazyku Python. Tkinter je štandardná knižnica Pythonu, ktorá umožňuje vytvárať grafické používateľské rozhrania (GUI) a je skvelým nástrojom pre vývoj desktopových aplikácií.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Obsah
-
-Repozitár obsahuje jednotlivé úlohy tak ako idú v učebnici zaradom.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
